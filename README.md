@@ -228,7 +228,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 このプロジェクトはMITライセンスの下でライセンスされています - 詳細についてはLICENSEファイルをご覧ください。
 
 ## 👨‍💻 作者
-- **Ryo Osawa** - *初期開発*
+- **kamecrawl** - *初期開発*
 - **Claude Sonnet 4.0** - *AIアシスタント*
 
 ---
